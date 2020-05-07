@@ -1,0 +1,422 @@
+.box{
+	width:98.5%;
+	height:45;
+	background-color:#1870CB;
+	color:white;
+	margin-top:5px;	
+	padding:10px;
+}
+.box a i{
+	color:white;
+	margin-left:30px;
+
+}
+.box p{
+	margin-left:160;
+	font-family:Calibri;
+	font-size:18px;
+	display:inline;
+}
+.button{
+	background-color: white;
+	display:inline;
+	height:30px;
+	border:none;
+	font-size:16px;
+	font-family:Calibri;
+	margin-left:16px;
+	cursor:pointer;
+}
+/* Nav bar */
+.Navbar{
+	width:100%;
+	height:60px;
+	background-color:#f5f5f5;
+	border:1px solid white;
+	position:sticky;
+	top:0;
+		
+}
+
+.Navbar a{
+	font-family:Calibri;
+	font-size:20px;
+	text-decoration:none;
+	color:black;
+	padding:3px;
+	margin-right:56px;
+	float:right;
+	margin-top:10px;
+
+}
+.Navbar a:hover{
+	background-color:#1870CB;
+	color:white;
+	transform: scale(1.2);
+	border-radius:30px;
+	
+}
+.Navbar a.active{
+	background-color:#1870CB;
+	color:white;
+	border-radius:30px;
+}
+
+
+/*---------------------------------*/
+/*-------Marquee----------*/
+.marquee{
+	background-color:#1870CB;
+	width:92%;
+	height:35px;
+	margin-top:10px;
+	margin-left:46px;
+	font-family:calibri;
+	
+}
+/*Introduction*/
+.Introduction{
+	width:100%;
+	height:750px;
+	background-color:f5f5f5;
+	margin-top:12px;
+}
+.Introduction p{
+	margin-top:30px;
+	font-family:candara;
+	font-size:20;
+	margin-left:150px;
+	color:#787878;
+}
+
+.series{
+	width:100%;
+	height:460px;
+	background-color:#1870CB;
+	color:white;
+	text-align:center;
+	font-family:Rockwell;
+	font-size:18px;
+}
+.series img{
+	height:65px;
+	width:60px;
+
+
+}.series1{
+	width:296px;
+	height:200px;
+	margin-left:60px;
+
+
+}
+.series2{
+	width:296px;
+	height:200px;
+	margin-left:400px;
+	margin-top:-200px;
+}
+
+.series3{
+	width:296px;
+	height:200px;
+	margin-left:700px;
+	margin-top:-200px;
+}
+.series4{
+	width:296px;
+	height:200px;
+	margin-left:990px;
+	margin-top:-200px;
+}
+
+
+/*-------------------------------------*/
+/* Images code -------*/
+.h1{
+	font-size:20px;
+
+	
+}
+.panel{
+	height:900px;
+	width:100%;
+	background-color:f5f5f5;
+}
+/*-------BOX#1 Sadqah Online--------*/
+.panel_box1{
+	background-color:white;
+	width:390px;
+	height:260px;
+	box-shadow:5px 10px 18px grey;
+	margin-left:50px;
+	display:block;
+	float:left;
+	margin-top:40px;
+}
+.panel_box1 h1{
+	color:#1870CB;
+	font-family:serif;
+	font-size:30px;
+	text-align:center;
+	margin-top:16px;
+	
+
+}
+/*-------BOX#2 Welfare-------*/
+.panel_box2{
+	background-color:white;
+	width:390px;
+	height:260px;
+	box-shadow: 5px 10px 18px grey;
+	display:block;
+	float:left;
+	margin-left:20px;
+	
+	margin-left:20px;
+	margin-top:40px;
+}
+.panel_box2 h1{
+	color:#1870CB;
+	font-family:serif;
+	font-size:30px;
+	text-align:center;
+	margin-top:14px;
+}
+/*-------BOX#3 medical--------*/
+.panel_box3{
+	background-color:white;
+	width:390px;
+	height:260px;
+	box-shadow:5px 10px 18px grey;;
+	display:block;
+	float:left;
+	margin-left:20px;
+
+	margin-top:40px;
+}
+.panel_box3 h1{
+	color:#1870CB;
+	font-family:serif;
+	font-size:30px;
+	margin-left:18%;
+	margin-top:14px;
+	text-align:center;
+	
+
+}
+/*-------BOX#4 Dastarkhwaaan--------*/
+.panel_box4{
+	background-color:white;
+	width:390px;
+	height:260px;
+	box-shadow:5px 10px 18px grey;
+	display:block;
+	float:left;
+	margin-top:40px;
+	margin-left:50px;
+}
+.panel_box4 h1{
+	color:#1870CB;
+	font-family:serif;
+	font-size:30px;
+	text-align:center;
+	margin-top:14px;
+	
+
+}
+/*-------BOX#5 RO PLANT--------*/
+.panel_box5{
+	background-color:white;
+	width:390px;
+	height:260px;
+	box-shadow:5px 10px 18px grey;
+	display:block;
+	float:left;
+	margin-top:40px;
+	margin-left:24px;
+}
+.panel_box5 h1{
+	color:#1870CB;
+	font-family:serif;
+	font-size:30px;
+	text-align:center;
+	
+
+}
+/*-------BOX#6 Education--------*/
+.panel_box6{
+	background-color:white;
+	width:390px;
+	height:260px;
+	box-shadow:5px 10px 18px grey;
+	display:block;
+	float:left;
+	margin-top:40px;
+	margin-left:18px;
+}
+.panel_box6 h1{
+	color:#1870CB;
+	font-family:serif;
+	font-size:30px;
+	text-align:center;
+	margin-top:14px;
+}
+/*----------------------------------*/
+\*---------Icons Code---------------*\
+.icon{
+	with:100%;
+	height:700px;
+	background-color:white;
+}
+.icon h1{
+	color:#1870CB;
+	margin-left:70px;
+	margin-top:80px;
+}
+
+.icon_box1{
+	width:380px;
+	height:97px;
+	background-color:#f5f5f5;
+	box-shadow:1px 1px 1px 1px grey;
+	margin-left:65px;
+	margin-top:30px;
+}
+
+.icon_box1 h2{
+	color:#1870CB;
+	text-align:center;
+	margin-top:-35px;
+}
+.icon_box2{
+	width:380px;
+	height:97px;
+	background-color:#f5f5f5;
+	box-shadow:1px 1px 1px 1px grey;
+	margin-right:450px;
+	float:right;
+	margin-top:-97px;
+}
+.icon_box2 h2{
+	color:#1870CB;
+	text-align:center;
+	margin-top:-22px;
+	font-family:Comic Sans;
+}
+.icon_box3{
+	width:380px;
+	height:97px;
+	background-color:#f5f5f5;
+	box-shadow:1px 1px 1px 1px grey;
+	margin-left:70px;
+	margin-top:24px;
+	
+}
+.icon_box3 h2{
+	color:#1870CB;
+	text-align:center;
+	margin-top:-32px;
+}
+.icon_box4{
+	width:380px;
+	height:97px;
+	background-color:#f5f5f5;
+	box-shadow:1px 1px 1px 1px grey;
+	margin-right:450px;
+	float:right;
+	margin-top:-97px;
+}
+.icon_box4 h2{
+	color:#1870CB;
+	text-align:center;
+	margin-top:-32px;
+	margin-left:-25px;
+}
+
+/*----------------------------------*/
+.upcoming{
+	width:22%;
+	height:300px;
+	background-color:white;
+	float:right;
+	margin-top:-320px;
+	margin-right:120px;
+	font-size:18px;
+	color:#787878;
+
+}
+/*Gallery-------------*/
+.gallery{
+	margin:0px 50px 0px 100px;
+	padding:30px;
+}
+/*----------------------------------*/
+/*footer-------------*/
+.footer{
+	width:100%;
+	height:480;
+	background-color: #282C35;
+}
+.footer_box_1{
+	height:300px;
+	width:290;
+	padding:65px;
+	margin-left:80px;
+	margin-top:-220px;
+
+}
+.footer p{
+	color:#A9A9A9;
+	font-family:Calibri;
+	font-size:19px;
+}
+.footer_box_2{
+	height:90px;
+	width:200px;
+	float:right;
+	margin-right:230px;
+	margin-top:-360px;
+	color:white;
+}
+.footer a:hover{
+	background-color:blue;
+	color:white;
+}
+.footer a.active{
+
+}
+.footer a i{
+	color:white;
+	padding:10px;
+}
+.footer_box_3{
+
+	width:300px;
+	height:140px;
+	margin-left:500px;
+	color:white;
+}
+.last_box{
+	width:100%;
+	height:60px;
+	background-color:#1870CB;
+	color:white;
+}
+.last_box p{
+	margin-left:35px;
+	margin-top:0px;
+	padding:30px;
+	font-family:Calibri;
+}
+.arrow{
+	width:90px;
+	height:80px;
+	right:10px;
+	bottom:20px;
+	position:fixed;
+	opacity:0.6;
+
+	
+}
+
